@@ -1,0 +1,7 @@
+crEATE account on linkedin
+create app from linkedin developer portal
+add page while creating app and verify the linkedin page.
+get api key and secret from developer portal in your app auth tab.
+in your app under product tab allow login with linkedin
+
+you are done.
